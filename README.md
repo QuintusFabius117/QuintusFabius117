@@ -1,16 +1,51 @@
-### Hi there 👋
+# My name is Fabian
 
-<!--
-**QuintusFabius117/QuintusFabius117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LinkedIn
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/fabain-taylor/"><img   src="https://a.storyblok.com/f/228452/128x128/d5cb7fa98a/linkedin-icon_square_128x128.png" width="50px" height=auto /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Who am I?
+
+I am a student at the University of Gloucestershire studying cyber security.
+
+## Long Term Goal
+
+My ambition is to become a red team professional and perform penetration tests in the field.
+
+## Short Term Goal
+
+My foreseeable aim is to graduate from university and acquire a role as a security analyst.
+
+## Skills
+
+| Skills | Projects |
+|---------------|---------------|
+| Skill 1 | Project 1 |
+
+## Tools
+
+# Nmap
+Reason
+
+# Netcat
+Reason
+
+# Aircrack-ng
+Reason
+
+# Other
+Reason
+
+## Experience
+VMA Digital...
+3GI Technology LTD
+
+## Certifications
+
+## Other Skills
+
+| Skills | Projects |
+|---------------|---------------|
+| Skill 1 | Project 1 |
+

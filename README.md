@@ -25,16 +25,16 @@ My foreseeable aim is to graduate from university and acquire a role as a securi
 
 ## Tools
 
-# Nmap
+### Nmap
 Reason
 
-# Netcat
+### Netcat
 Reason
 
-# Aircrack-ng
+### Aircrack-ng
 Reason
 
-# Other
+### Other
 Reason
 
 ## Experience

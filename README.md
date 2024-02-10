@@ -21,7 +21,7 @@ My foreseeable aim is to graduate from university and acquire a role as a securi
 
 | Skills | Projects |
 |---------------|---------------|
-| Skill 1 | Project 1 |
+| Port Scanning with Threading | <a href="https://github.com/QuintusFabius117/Fast-Port-Scanner-Python-">Fast Port Scanner</a> |
 
 ## Tools
 
